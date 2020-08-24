@@ -6,12 +6,14 @@ using Microsoft.AspNetCore.Identity;
 
 namespace RedeSocial.Domain.Account
 {
-    public class Account : IdentityUser
+    public class Account
     {
         public Guid Id { get; set; }
         public String Name { get; set; }
         public DateTime DtBirthday { get; set; }
         public String Email { get; set; }       
         public String Password { get; set; }
+
+        public Role Role { get; set; }
     }
 }

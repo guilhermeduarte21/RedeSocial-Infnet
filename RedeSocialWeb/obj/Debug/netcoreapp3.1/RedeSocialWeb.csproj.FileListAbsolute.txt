@@ -87,7 +87,6 @@ D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
@@ -100,3 +99,7 @@ D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\RedeSocialWeb.dll
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\RedeSocialWeb.pdb
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\RedeSocialWeb.genruntimeconfig.cache
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocialWeb\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs

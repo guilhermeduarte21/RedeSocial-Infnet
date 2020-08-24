@@ -6,3 +6,4 @@ D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.CrossCutting\obj\Debug\netc
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.CrossCutting\obj\Debug\netcoreapp3.1\RedeSocial.CrossCutting.csproj.CoreCompileInputs.cache
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.CrossCutting\obj\Debug\netcoreapp3.1\RedeSocial.CrossCutting.dll
 D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.CrossCutting\obj\Debug\netcoreapp3.1\RedeSocial.CrossCutting.pdb
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.CrossCutting\obj\Debug\netcoreapp3.1\RedeSocial.CrossCutting.csprojAssemblyReference.cache
