@@ -1,0 +1,14 @@
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\bin\Debug\netcoreapp3.1\RedeSocial.Repository.deps.json
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\bin\Debug\netcoreapp3.1\RedeSocial.Repository.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\bin\Debug\netcoreapp3.1\RedeSocial.Repository.pdb
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\bin\Debug\netcoreapp3.1\RedeSocial.CrossCutting.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\bin\Debug\netcoreapp3.1\RedeSocial.Domain.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\bin\Debug\netcoreapp3.1\RedeSocial.CrossCutting.pdb
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\bin\Debug\netcoreapp3.1\RedeSocial.Domain.pdb
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\obj\Debug\netcoreapp3.1\RedeSocial.Repository.csprojAssemblyReference.cache
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\obj\Debug\netcoreapp3.1\RedeSocial.Repository.AssemblyInfoInputs.cache
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\obj\Debug\netcoreapp3.1\RedeSocial.Repository.AssemblyInfo.cs
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\obj\Debug\netcoreapp3.1\RedeSocial.Repository.csproj.CopyComplete
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\obj\Debug\netcoreapp3.1\RedeSocial.Repository.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\obj\Debug\netcoreapp3.1\RedeSocial.Repository.pdb
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Repository\obj\Debug\netcoreapp3.1\RedeSocial.Repository.csproj.CoreCompileInputs.cache

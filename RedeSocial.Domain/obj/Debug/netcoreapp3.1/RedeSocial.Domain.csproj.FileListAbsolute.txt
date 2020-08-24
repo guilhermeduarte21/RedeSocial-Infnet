@@ -1,0 +1,9 @@
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\bin\Debug\netcoreapp3.1\RedeSocial.Domain.deps.json
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\bin\Debug\netcoreapp3.1\RedeSocial.Domain.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\bin\Debug\netcoreapp3.1\RedeSocial.Domain.pdb
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\obj\Debug\netcoreapp3.1\RedeSocial.Domain.csprojAssemblyReference.cache
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\obj\Debug\netcoreapp3.1\RedeSocial.Domain.AssemblyInfoInputs.cache
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\obj\Debug\netcoreapp3.1\RedeSocial.Domain.AssemblyInfo.cs
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\obj\Debug\netcoreapp3.1\RedeSocial.Domain.dll
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\obj\Debug\netcoreapp3.1\RedeSocial.Domain.pdb
+D:\Infnet\DontNet\ProjetoBloco\RedeSocial\RedeSocial.Domain\obj\Debug\netcoreapp3.1\RedeSocial.Domain.csproj.CoreCompileInputs.cache
