@@ -8,5 +8,6 @@ namespace RedeSocial.Domain.Account.Repository
     public interface IAccountRepository
     {
         Task<Account> GetAccountByEmailPassword(string email, string password);
+        Task<Account> GetAccountByUserNamePassword(string userName, string password);
     }
 }

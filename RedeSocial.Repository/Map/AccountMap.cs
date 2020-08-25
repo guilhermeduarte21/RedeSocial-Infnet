@@ -19,6 +19,7 @@ namespace RedeSocial.Repository.Map
             builder.Property(x => x.Name).IsRequired().HasMaxLength(150);
             builder.Property(x => x.Password).IsRequired().HasMaxLength(150);
             builder.Property(x => x.DtBirthday).IsRequired();
+            builder.Property(x => x.UserName).HasMaxLength(50);
 
             builder.HasOne(x => x.Role).WithMany(x => x.Accounts);
         }

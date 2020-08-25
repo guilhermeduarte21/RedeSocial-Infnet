@@ -59,18 +59,18 @@ namespace RedeSocial.Repository.Account
 
         public Task<string> GetUserNameAsync(Domain.Account.Account user, CancellationToken cancellationToken)
         {
-            return Task.FromResult(user.Email.ToString());
+            return Task.FromResult(user.UserName);
         }
 
         public Task SetNormalizedUserNameAsync(Domain.Account.Account user, string normalizedName, CancellationToken cancellationToken)
         {
-            user.Email = normalizedName;
+            user.UserName = normalizedName;
             return Task.CompletedTask;
         }
 
         public Task SetUserNameAsync(Domain.Account.Account user, string userName, CancellationToken cancellationToken)
         {
-            user.Email = userName;
+            user.UserName = userName;
             return Task.CompletedTask;
         }
 
@@ -90,6 +90,13 @@ namespace RedeSocial.Repository.Account
             return Task.FromResult(this.Context.Accounts
                                                 .Include(x => x.Role)
                                                 .FirstOrDefault(x => x.Email == email && x.Password == password));
+        }
+
+        public Task<Domain.Account.Account> GetAccountByUserNamePassword(string userName, string password)
+        {
+            return Task.FromResult(this.Context.Accounts
+                                                .Include(x => x.Role)
+                                                .FirstOrDefault(x => x.UserName == userName && x.Password == password));
         }
 
         protected virtual void Dispose(bool disposing)
